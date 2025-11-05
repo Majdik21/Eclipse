@@ -101,9 +101,10 @@ function processInput(){
     else if(userInput === '1971' ){
 
     }
-    else if(userInput ===  ){
+}
+    /*else if(userInput ===  ){
 
     }
 
 
-}
+}*/
